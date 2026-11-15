@@ -1,13 +1,6 @@
 ---
 name: plan
-description: >-
-  Decompose a goal or research artifact into an issue-ready implementation plan
-  with dependency waves, file ownership, acceptance criteria, and mechanical
-  validation checks, written to a markdown plan under `plans/`. Use when the
-  user says `/plan` or `$plan`, or asks to plan work, break down a feature,
-  decompose a goal into issues/tasks/tickets, produce an execution/handoff
-  plan, or turn research into a buildable spec. Planning only — keep WHAT
-  separate from HOW and do not implement.
+description: "Decompose a goal or research artifact into an issue-ready implementation plan with dependency waves, file ownership, acceptance criteria, and mechanical validation checks, written to a markdown plan under `plans/`. Use when the user says `/plan` or `$plan`, or asks to plan work, break down a feature, decompose a goal into issues/tasks/tickets, produce an execution/handoff plan, or turn research into a buildable spec. Planning only — keep WHAT separate from HOW and do not implement."
 disable-model-invocation: true
 ---
 
