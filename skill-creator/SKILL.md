@@ -1,11 +1,6 @@
 ---
 name: skill-creator
-description: >-
-  Create a skill end to end with quality gates: context questions, placement,
-  draft, a measurable validation pass, a real load test, an A-F audit before
-  publishing, and the symlink-not-copy distribution rule. Use when asked to
-  create, write or save a skill, capture a repeated workflow as a skill, or turn
-  a procedure the user just walked through into a reusable instruction file.
+description: "Create a skill end to end with quality gates: context questions, placement, draft, a measurable validation pass, a real load test, an A-F audit before publishing, and the symlink-not-copy distribution rule. Use when asked to create, write or save a skill, capture a repeated workflow as a skill, or turn a procedure the user just walked through into a reusable instruction file."
 license: MIT
 ---
 
