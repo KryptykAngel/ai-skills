@@ -1,10 +1,6 @@
 ---
 name: ask
-description: >
-  Clarifies requirements before any work starts via numbered questions with
-  three labeled options each. Use when the user invokes /ask, says "ask mode",
-  "ask questions first", or wants requirements clarified before work of any
-  kind (code, research, writing, planning, or other tasks).
+description: Clarifies requirements before any work starts via numbered questions with three labeled options each. Use when the user invokes /ask, says "ask mode", "ask questions first", or wants requirements clarified before work of any kind (code, research, writing, planning, or other tasks).
 disable-model-invocation: true
 ---
 
