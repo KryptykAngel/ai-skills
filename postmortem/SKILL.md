@@ -1,12 +1,6 @@
 ---
 name: postmortem
-description: >-
-  Write an incident postmortem as a learning artifact: gather context, rebuild
-  the timeline with the timezone verified, score severity, check for recurrence,
-  draft from a fixed template, preview it, publish it, and add at least one
-  concrete prevention per incident. Use after an outage, data loss, degraded
-  service or any incident that needed manual intervention, or when asked to
-  document what happened.
+description: "Write an incident postmortem as a learning artifact: gather context, rebuild the timeline with the timezone verified, score severity, check for recurrence, draft from a fixed template, preview it, publish it, and add at least one concrete prevention per incident. Use after an outage, data loss, degraded service or any incident that needed manual intervention, or when asked to document what happened."
 license: MIT
 ---
 
