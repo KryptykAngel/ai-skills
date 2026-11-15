@@ -1,12 +1,6 @@
 ---
 name: unit-test-impl
-description: >-
-  Execute a unit-test case document produced by the `unit-test-plan` skill: write
-  one test per case with the case ID in the test name, run each test as you go,
-  update every case's status, and report findings instead of editing production
-  code. Language-agnostic — it detects the project's runner and follows its
-  conventions. Use when the user says `/unit-test-impl` or asks to implement,
-  write, or generate the tests from a test plan or case document.
+description: "Execute a unit-test case document produced by the `unit-test-plan` skill: write one test per case with the case ID in the test name, run each test as you go, update every case's status, and report findings instead of editing production code. Language-agnostic — it detects the project's runner and follows its conventions. Use when the user says `/unit-test-impl` or asks to implement, write, or generate the tests from a test plan or case document."
 disable-model-invocation: true
 ---
 
