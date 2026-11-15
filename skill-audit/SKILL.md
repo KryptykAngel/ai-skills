@@ -1,11 +1,6 @@
 ---
 name: skill-audit
-description: >-
-  Audit any SKILL.md and grade it A-F on five dimensions: frontmatter and
-  description, unambiguous steps, real pitfalls with recoveries, verification,
-  and structure. Use when auditing one skill or a whole library, before
-  publishing a new skill, after a reorganization, or when a skill exists but
-  never seems to get loaded.
+description: "Audit any SKILL.md and grade it A-F on five dimensions: frontmatter and description, unambiguous steps, real pitfalls with recoveries, verification, and structure. Use when auditing one skill or a whole library, before publishing a new skill, after a reorganization, or when a skill exists but never seems to get loaded."
 license: MIT
 ---
 
