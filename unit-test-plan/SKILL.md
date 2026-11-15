@@ -1,13 +1,6 @@
 ---
 name: unit-test-plan
-description: >-
-  Design a unit-test case document before any test is written: read a target
-  module, package, or CLI, inventory its units, map the external dependencies to
-  substitutes, and emit numbered cases with given/when/then, an observable
-  result, and a per-case status. Language-agnostic. Use when the user says
-  `/unit-test-plan` or asks to plan unit tests, enumerate test cases, decide what
-  to test, or produce a test plan for existing code. Planning only — writes no
-  test code.
+description: "Design a unit-test case document before any test is written: read a target module, package, or CLI, inventory its units, map the external dependencies to substitutes, and emit numbered cases with given/when/then, an observable result, and a per-case status. Language-agnostic. Use when the user says `/unit-test-plan` or asks to plan unit tests, enumerate test cases, decide what to test, or produce a test plan for existing code. Planning only — writes no test code."
 disable-model-invocation: true
 ---
 
