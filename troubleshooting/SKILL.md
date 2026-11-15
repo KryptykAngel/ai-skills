@@ -1,12 +1,6 @@
 ---
 name: troubleshooting
-description: >-
-  Troubleshoot a live incident: read the runbook first, mitigate before
-  diagnosing, run a 60-second sanity checklist, gather evidence for one
-  hypothesis at a time, and walk a layer stack from application down to hardware.
-  Use when a service is down, degraded, unreachable, throwing errors, or behaving
-  differently after a change — and when someone says "it stopped working",
-  "debug this", "triage this", or "why is X failing".
+description: 'Troubleshoot a live incident: read the runbook first, mitigate before diagnosing, run a 60-second sanity checklist, gather evidence for one hypothesis at a time, and walk a layer stack from application down to hardware. Use when a service is down, degraded, unreachable, throwing errors, or behaving differently after a change — and when someone says "it stopped working", "debug this", "triage this", or "why is X failing".'
 license: MIT
 ---
 
