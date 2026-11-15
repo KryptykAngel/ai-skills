@@ -1,11 +1,6 @@
 ---
 name: retrospective
-description: >-
-  Run a retro after a task: what went wrong, what went well, what to improve, a
-  scored summary, a recurrence check against past work, and an offer to turn the
-  lesson into a skill. Use when the user says "retro", "retrospective", "what did
-  we learn", "post-mortem" about a finished piece of work (not an outage), or
-  after closing a large task, migration or multi-step change.
+description: 'Run a retro after a task: what went wrong, what went well, what to improve, a scored summary, a recurrence check against past work, and an offer to turn the lesson into a skill. Use when the user says "retro", "retrospective", "what did we learn", "post-mortem" about a finished piece of work (not an outage), or after closing a large task, migration or multi-step change.'
 license: MIT
 ---
 
