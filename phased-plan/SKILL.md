@@ -1,15 +1,7 @@
 ---
 name: phased-plan
 version: 1.1.0
-description: >-
-  Hand-testable phased plans: every phase is one observable change a person can
-  check by hand, gated by PASS / FAIL / SKIP before the next one, with advisory
-  model and reasoning recommendations for software phases. Offers to save the
-  plan for another chat. Use when the user asks for a phased plan, a hand-testable
-  rollout, step-by-step phases they verify themselves, or names this skill.
-  Also use when a saved phased plan exists and the user replies PASS, FAIL, or
-  SKIP. Not for issue/wave decomposition or machine-checked plans — that is the
-  `plan` skill.
+description: "Hand-testable phased plans: every phase is one observable change a person can check by hand, gated by PASS / FAIL / SKIP before the next one, with advisory model and reasoning recommendations for software phases. Offers to save the plan for another chat. Use when the user asks for a phased plan, a hand-testable rollout, step-by-step phases they verify themselves, or names this skill. Also use when a saved phased plan exists and the user replies PASS, FAIL, or SKIP. Not for issue/wave decomposition or machine-checked plans — that is the `plan` skill."
 disable-model-invocation: true
 ---
 
