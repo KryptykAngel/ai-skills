@@ -1,13 +1,6 @@
 ---
 name: portable-agent-skills
-description: >-
-  Package skills so several agent tools can use the same file: the Agent Skills
-  format, one source-of-truth repo symlinked into each client's discovery
-  directory, publishing without leaking private context, and a shape-based
-  pre-commit checker. Use when building or maintaining a cross-tool skill
-  library, deciding where a skill file should live so two tools both see it,
-  writing a README for a public skills collection, or publishing, renaming or
-  retiring a skill.
+description: "Package skills so several agent tools can use the same file: the Agent Skills format, one source-of-truth repo symlinked into each client's discovery directory, publishing without leaking private context, and a shape-based pre-commit checker. Use when building or maintaining a cross-tool skill library, deciding where a skill file should live so two tools both see it, writing a README for a public skills collection, or publishing, renaming or retiring a skill."
 license: MIT
 ---
 
