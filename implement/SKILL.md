@@ -1,13 +1,6 @@
 ---
 name: implement
-description: >-
-  Execute a plan produced by the `plan` skill: read a `plans/*.md` file and
-  implement it wave by wave, honoring its Execution Contract, file ownership,
-  and per-issue machine-readable checks. Language- and stack-agnostic — it
-  follows the surrounding code and, if present, `AGENTS.md` conventions as
-  advisory guidance. Use when the user says `/implement` or `$implement`, or
-  asks to execute/build/carry out a plan, implement `plans/*.md`, or turn an
-  issue-ready plan into working code.
+description: "Execute a plan produced by the `plan` skill: read a `plans/*.md` file and implement it wave by wave, honoring its Execution Contract, file ownership, and per-issue machine-readable checks. Language- and stack-agnostic — it follows the surrounding code and, if present, `AGENTS.md` conventions as advisory guidance. Use when the user says `/implement` or `$implement`, or asks to execute/build/carry out a plan, implement `plans/*.md`, or turn an issue-ready plan into working code."
 disable-model-invocation: true
 ---
 
